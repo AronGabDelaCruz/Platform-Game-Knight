@@ -1,30 +1,35 @@
-# Platform-Game-Knight
-In this repo i'll be documenting my journey of devoloping a simple game to learn how to create a game 2D using GoDot. Dont expect something like Hollow Knight hehe.
+# MyPlatformerGame
+A simple 2D platformer made with Godot Engine.
 
 im curently following a tutorial video on youtube here's the link: https://www.youtube.com/watch?v=LOhfqjmasi0
 
 ## Game Description
 
-The is a 2D Platform Game were our character have to face a environment composed of midair platform, obstacole, enemey with the objective of arriving at the end of the level.
+MyPlatformerGame is a 2D platformer where the player jumps across platforms,
+avoids enemies, and collects coins to reach the goal.
+The game was built with Godot Engine 4.
 
-## Tree Structure
-The devolopmente of the game will be devided in 2 folders: Scenes and Scripts
+## Features
+- Smooth 2D player movement
+- Basic enemy AI
+- Collectibles (coins)
+- Parallax background
+- Checkpoints and levels
 
-### Scenes
-A Scene can be defined as a singole element of our game:
-#### Environment
+## Build With
+- Godot Engine 4.x
+- GDScript
+- Aseprite (for sprites)
+- Git & GitHub
 
-#### Player
+## How To Run
+I'm still deloping the game so i'll update this part later on
 
-#### Platforms
+## License
+This project is licensed under the MIT License.
 
-#### Enemy
-
-#### Death Zone
-
-### Scripts
-Code used to hadle the different interaction between objects
-
-
+## Credits
+Game developed following the tutorial on this link: https://www.youtube.com/watch?v=LOhfqjmasi0
+Sprites from https://brackeysgames.itch.io/brackeys-platformer-bundle
 
 

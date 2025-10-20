@@ -24,8 +24,14 @@ The game was built with Godot Engine 4.
 ## Version
 There are differets versione depending on how many updatade i make.
 
-## How To Run
-I'm still deloping the game so i'll update this part later on
+## How To Play
+
+- Click on this link: https://arongabdelacruz.itch.io/knight-demon
+- It will drag you in a itch.io page
+- click on download
+- extract all the files
+- open the folder
+- click on the console verisione and play 
 
 ## License
 This project is licensed under the MIT License.

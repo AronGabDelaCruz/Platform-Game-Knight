@@ -1,8 +1,6 @@
 # MyPlatformerGame
 A simple 2D platformer made with Godot Engine.
 
-im curently following a tutorial video on youtube here's the link: https://www.youtube.com/watch?v=LOhfqjmasi0
-
 ## Game Description
 
 MyPlatformerGame is a 2D platformer where the player jumps across platforms,
@@ -37,7 +35,10 @@ There are differets versione depending on how many updatade i make.
 This project is licensed under the MIT License.
 
 ## Credits
-Game developed following the tutorial on this link: https://www.youtube.com/watch?v=LOhfqjmasi0
-Sprites from https://brackeysgames.itch.io/brackeys-platformer-bundle
+- Game developed following the tutorial on this link: https://www.youtube.com/watch?v=LOhfqjmasi0
+- Sprites from https://brackeysgames.itch.io/brackeys-platformer-bundle
+
+## PS
+This has been created just for fun i wont take any credit of this game and i wont take any economical profits.
 
 

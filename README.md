@@ -21,6 +21,8 @@ The game was built with Godot Engine 4.
 - GDScript
 - Aseprite (for sprites)
 - Git & GitHub
+## Version
+There are differets versione depending on how many updatade i make.
 
 ## How To Run
 I'm still deloping the game so i'll update this part later on
